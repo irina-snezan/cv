@@ -110,6 +110,16 @@ footer a:hover {
 	color: #8566aa;
 }
 
+.cert {
+	display:flex;
+	flex-direction:row;
+	align-items:baseline;
+}
+
+.cert a {
+	font-size: 24px;
+}
+
 footer {
 	background-color: #8ec6c5;
 	padding: 30px;
