@@ -62,7 +62,9 @@ h3 {
 	text-transform: uppercase;
 	color: #6983aa;	
 }
-
+.contact {
+	margin-left: 20px;
+}
 .line {
 	width: 50%;
 	margin: 0 auto;
@@ -84,7 +86,20 @@ main p {
 	font-size: 24px;
 	padding-bottom: 20px;
 }
+.education span {
+	font-weight: bold;
 
+}
+.rs {
+	display: flex;
+	align-items: flex-end;
+
+}
+.rs a {
+	margin-bottom:  7px;
+	padding-left: 5px;
+	font-size: 24px;
+}
 main a {
 	display: block;
 	margin-bottom: 10px;
