@@ -1,5 +1,6 @@
 .body {
 	width: 100wv;
+	height: 100vh;
 	color: #656c76;
 }
 
@@ -86,7 +87,8 @@ main p {
 	font-size: 24px;
 	padding-bottom: 20px;
 }
-.education span {
+.education span,
+.languages span {
 	font-weight: bold;
 
 }
